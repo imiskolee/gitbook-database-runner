@@ -1,0 +1,25 @@
+{
+  "name": "gitbook-database-runner",
+  "version": "0.0.1",
+  "description": "real run SQL on book based on TiDB/SQLite.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imiskolee/gitbook-database-runner.git"
+  },
+  "keywords": [
+    "gitbook",
+    "database",
+    "sql",
+    "wasm"
+  ],
+  "author": "Misko Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imiskolee/gitbook-database-runner/issues"
+  },
+  "homepage": "https://github.com/imiskolee/gitbook-database-runner#readme"
+}
